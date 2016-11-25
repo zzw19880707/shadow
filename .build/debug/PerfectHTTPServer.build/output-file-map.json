@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectHTTPServer.build/master.swiftdeps"
+  },
+  "/Users/MacBook/Desktop/PerfectTemplate/Packages/PerfectHTTPServer-2.0.5/Sources/PerfectHTTPServer/HPACK.swift": {
+    "dependencies": "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectHTTPServer.build/HPACK.d",
+    "object": "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectHTTPServer.build/HPACK.swift.o",
+    "swiftmodule": "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectHTTPServer.build/HPACK~partial.swiftmodule",
+    "swift-dependencies": "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectHTTPServer.build/HPACK.swiftdeps"
+  },
+  "/Users/MacBook/Desktop/PerfectTemplate/Packages/PerfectHTTPServer-2.0.5/Sources/PerfectHTTPServer/HTTP11Request.swift": {
+    "dependencies": "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectHTTPServer.build/HTTP11Request.d",
+    "object": "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectHTTPServer.build/HTTP11Request.swift.o",
+    "swiftmodule": "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectHTTPServer.build/HTTP11Request~partial.swiftmodule",
+    "swift-dependencies": "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectHTTPServer.build/HTTP11Request.swiftdeps"
+  },
+  "/Users/MacBook/Desktop/PerfectTemplate/Packages/PerfectHTTPServer-2.0.5/Sources/PerfectHTTPServer/HTTP11Response.swift": {
+    "dependencies": "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectHTTPServer.build/HTTP11Response.d",
+    "object": "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectHTTPServer.build/HTTP11Response.swift.o",
+    "swiftmodule": "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectHTTPServer.build/HTTP11Response~partial.swiftmodule",
+    "swift-dependencies": "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectHTTPServer.build/HTTP11Response.swiftdeps"
+  },
+  "/Users/MacBook/Desktop/PerfectTemplate/Packages/PerfectHTTPServer-2.0.5/Sources/PerfectHTTPServer/HTTP2.swift": {
+    "dependencies": "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectHTTPServer.build/HTTP2.d",
+    "object": "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectHTTPServer.build/HTTP2.swift.o",
+    "swiftmodule": "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectHTTPServer.build/HTTP2~partial.swiftmodule",
+    "swift-dependencies": "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectHTTPServer.build/HTTP2.swiftdeps"
+  },
+  "/Users/MacBook/Desktop/PerfectTemplate/Packages/PerfectHTTPServer-2.0.5/Sources/PerfectHTTPServer/HTTPServer.swift": {
+    "dependencies": "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectHTTPServer.build/HTTPServer.d",
+    "object": "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectHTTPServer.build/HTTPServer.swift.o",
+    "swiftmodule": "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectHTTPServer.build/HTTPServer~partial.swiftmodule",
+    "swift-dependencies": "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectHTTPServer.build/HTTPServer.swiftdeps"
+  }
+}

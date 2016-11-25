@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "350db4ef82335cd6cac8557c2e2e1502"
+build_time: [533193678, 356946000]
+inputs:
+  "/Users/MacBook/Desktop/PerfectTemplate/Packages/PerfectHTTPServer-2.0.5/Sources/PerfectHTTPServer/HPACK.swift": [533187761, 0]
+  "/Users/MacBook/Desktop/PerfectTemplate/Packages/PerfectHTTPServer-2.0.5/Sources/PerfectHTTPServer/HTTP11Request.swift": [533187761, 0]
+  "/Users/MacBook/Desktop/PerfectTemplate/Packages/PerfectHTTPServer-2.0.5/Sources/PerfectHTTPServer/HTTP11Response.swift": [533187761, 0]
+  "/Users/MacBook/Desktop/PerfectTemplate/Packages/PerfectHTTPServer-2.0.5/Sources/PerfectHTTPServer/HTTP2.swift": [533187761, 0]
+  "/Users/MacBook/Desktop/PerfectTemplate/Packages/PerfectHTTPServer-2.0.5/Sources/PerfectHTTPServer/HTTPServer.swift": [533187761, 0]

@@ -1,0 +1,5 @@
+module CHTTPParser {
+    umbrella "/Users/MacBook/Desktop/PerfectTemplate/Packages/PerfectHTTPServer-2.0.5/Sources/CHTTPParser/include"
+    link "CHTTPParser"
+    export *
+}

@@ -1,0 +1,247 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "testHost"
+- "testUser"
+- "testPassword"
+- "testDB"
+- "DBBaseManager"
+provides-nominal:
+- "C15PerfectTemplate13DBBaseManager"
+provides-member:
+- ["C15PerfectTemplate13DBBaseManager", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "testDB"
+- "testHost"
+- "DBBaseManager"
+- !private "MySQL"
+- "Void"
+- !private "print"
+- "HTTPRequest"
+- "StringLiteralType"
+- "testUser"
+- "HTTPResponse"
+- "testPassword"
+depends-member:
+- !private ["Ps9AnyObject", "MySQL"]
+- !private ["Ps9AnyObject", "close"]
+- !private ["Ps9AnyObject", "connect"]
+- !private ["Ps9AnyObject", "errorMessage"]
+- ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "print"]
+- !private ["Ps9AnyObject", "query"]
+- !private ["Ps9AnyObject", "testDB"]
+- !private ["Ps9AnyObject", "testHost"]
+- !private ["Ps9AnyObject", "testPassword"]
+- !private ["Ps9AnyObject", "testUser"]
+- ["Ps9AnyObject", ""]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["Sb", "deinit"]
+- ["Ps7CVarArg", "init"]
+- !private ["Vs9Character", "deinit"]
+- ["Ps10Comparable", "init"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["C15PerfectTemplate13DBBaseManager", "HTTPRequest"]
+- ["C15PerfectTemplate13DBBaseManager", "HTTPResponse"]
+- !private ["C15PerfectTemplate13DBBaseManager", "MySQL"]
+- ["C15PerfectTemplate13DBBaseManager", "Void"]
+- ["C15PerfectTemplate13DBBaseManager", "deinit"]
+- ["C15PerfectTemplate13DBBaseManager", "init"]
+- ["C15PerfectTemplate13DBBaseManager", "inserData"]
+- !private ["C15PerfectTemplate13DBBaseManager", "print"]
+- !private ["C15PerfectTemplate13DBBaseManager", "testDB"]
+- !private ["C15PerfectTemplate13DBBaseManager", "testHost"]
+- !private ["C15PerfectTemplate13DBBaseManager", "testPassword"]
+- !private ["C15PerfectTemplate13DBBaseManager", "testUser"]
+- !private ["Sd", "deinit"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- ["Ps9Equatable", "init"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- ["Ps32ExpressibleByStringInterpolation", "init"]
+- ["Ps26ExpressibleByStringLiteral", "init"]
+- ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Sf", "deinit"]
+- !private ["P11PerfectHTTP12HTTPResponse", "appendBody"]
+- !private ["P11PerfectHTTP12HTTPResponse", "completed"]
+- ["P11PerfectHTTP12HTTPResponse", "deinit"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- ["Ps8Hashable", "init"]
+- ["Si", "deinit"]
+- !private ["Vs5Int16", "deinit"]
+- !private ["Vs5Int32", "deinit"]
+- !private ["Vs5Int64", "deinit"]
+- !private ["Vs4Int8", "deinit"]
+- !private ["P10PerfectLib15JSONConvertible", "_getBuiltinLogicValue"]
+- ["P10PerfectLib15JSONConvertible", "init"]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- ["Ps25LosslessStringConvertible", "init"]
+- ["Ps10MirrorPath", "init"]
+- !private ["C5MySQL5MySQL", "close"]
+- !private ["C5MySQL5MySQL", "connect"]
+- ["C5MySQL5MySQL", "deinit"]
+- !private ["C5MySQL5MySQL", "errorMessage"]
+- !private ["C5MySQL5MySQL", "init"]
+- !private ["C5MySQL5MySQL", "query"]
+- ["PSo8NSCoding", "init"]
+- ["PSo9NSCopying", "init"]
+- ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "init"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo14NSSecureCoding", "init"]
+- ["CSo8NSString", "init"]
+- ["SS", "deinit"]
+- ["SS", "init"]
+- ["Ps16TextOutputStream", "init"]
+- ["Ps20TextOutputStreamable", "init"]
+- !private ["Su", "deinit"]
+- !private ["Vs6UInt16", "deinit"]
+- !private ["Vs6UInt32", "deinit"]
+- !private ["Vs6UInt64", "deinit"]
+- !private ["Vs5UInt8", "deinit"]
+- !private ["Sc", "deinit"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- ["Ps9_Hashable", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- ["Ps21_ObjectiveCBridgeable", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Sb"
+- "Ps7CVarArg"
+- !private "Vs9Character"
+- "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- "Ps29CustomPlaygroundQuickLookable"
+- "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "C15PerfectTemplate13DBBaseManager"
+- !private "Sd"
+- "Ps9Equatable"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- "Ps32ExpressibleByStringInterpolation"
+- "Ps26ExpressibleByStringLiteral"
+- "Ps33ExpressibleByUnicodeScalarLiteral"
+- !private "Sf"
+- "P11PerfectHTTP12HTTPResponse"
+- "Ps8Hashable"
+- "Si"
+- !private "Vs5Int16"
+- !private "Vs5Int32"
+- !private "Vs5Int64"
+- !private "Vs4Int8"
+- "P10PerfectLib15JSONConvertible"
+- "Ps25LosslessStringConvertible"
+- "Ps10MirrorPath"
+- "C5MySQL5MySQL"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo14NSSecureCoding"
+- "CSo8NSString"
+- "SS"
+- "Ps16TextOutputStream"
+- "Ps20TextOutputStreamable"
+- !private "Su"
+- !private "Vs6UInt16"
+- !private "Vs6UInt32"
+- !private "Vs6UInt64"
+- !private "Vs5UInt8"
+- !private "Sc"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- "Ps34_ExpressibleByBuiltinStringLiteral"
+- "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectHTTPServer.swiftmodule"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/PerfectHTTPServer-2.0.5/Sources/CHTTPParser/include/http_parser.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/module.modulemap"
+- "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/CHTTPParser.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectHTTP.swiftmodule"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../ssl.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../srtp.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../ssl23.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../pqueue.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../dtls1.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../tls1.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../ssl3.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../ssl2.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../opensslconf.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../kssl.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../hmac.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../pem2.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../e_os2.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../pem.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../pkcs7.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../x509_vfy.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../sha.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../dh.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../dsa.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../rsa.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../ecdh.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../ecdsa.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../ec.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../bn.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../asn1.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../obj_mac.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../objects.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../evp.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../buffer.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../x509.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../comp.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../lhash.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../err.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../symhacks.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../ossl_typ.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../opensslv.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../safestack.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../stack.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../crypto.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/../bio.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/COpenSSL-2.0.2/COpenSSL/include/openssl.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectLib.swiftmodule"
+- "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectNet.swiftmodule"
+- "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectThread.swiftmodule"
+- "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/MySQL.swiftmodule"
+- "/usr/local/Cellar/mysql/5.7.16/include/mysql/mysql/psi/psi_base.h"
+- "/usr/local/Cellar/mysql/5.7.16/include/mysql/mysql/psi/psi_memory.h"
+- "/usr/local/Cellar/mysql/5.7.16/include/mysql/my_alloc.h"
+- "/usr/local/Cellar/mysql/5.7.16/include/mysql/typelib.h"
+- "/usr/local/Cellar/mysql/5.7.16/include/mysql/mysql/plugin_auth_common.h"
+- "/usr/local/Cellar/mysql/5.7.16/include/mysql/mysql/client_plugin.h"
+- "/usr/local/Cellar/mysql/5.7.16/include/mysql/my_list.h"
+- "/usr/local/Cellar/mysql/5.7.16/include/mysql/mysql_time.h"
+- "/usr/local/Cellar/mysql/5.7.16/include/mysql/my_command.h"
+- "/usr/local/Cellar/mysql/5.7.16/include/mysql/binary_log_types.h"
+- "/usr/local/Cellar/mysql/5.7.16/include/mysql/mysql_com.h"
+- "/usr/local/Cellar/mysql/5.7.16/include/mysql/mysql_version.h"
+- "/usr/local/include/mysql/mysql.h"
+- "/Users/MacBook/Desktop/PerfectTemplate/Packages/mysqlclient-2.0.0/module.modulemap"
+interface-hash: "acb515129c755b54498bed39e66a6917"

@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "3f8d9774028dc91bc09bf26be3f40a8c"
+build_time: [533193677, 23942000]
+inputs:
+  "/Users/MacBook/Desktop/PerfectTemplate/Packages/PerfectHTTP-2.0.5/Sources/HTTPFilter.swift": [533187843, 0]
+  "/Users/MacBook/Desktop/PerfectTemplate/Packages/PerfectHTTP-2.0.5/Sources/HTTPHeaders.swift": [533187843, 0]
+  "/Users/MacBook/Desktop/PerfectTemplate/Packages/PerfectHTTP-2.0.5/Sources/HTTPMethod.swift": [533187843, 0]
+  "/Users/MacBook/Desktop/PerfectTemplate/Packages/PerfectHTTP-2.0.5/Sources/HTTPRequest.swift": [533187843, 0]
+  "/Users/MacBook/Desktop/PerfectTemplate/Packages/PerfectHTTP-2.0.5/Sources/HTTPResponse.swift": [533187843, 0]
+  "/Users/MacBook/Desktop/PerfectTemplate/Packages/PerfectHTTP-2.0.5/Sources/MimeReader.swift": [533187843, 0]
+  "/Users/MacBook/Desktop/PerfectTemplate/Packages/PerfectHTTP-2.0.5/Sources/MimeType.swift": [533187843, 0]
+  "/Users/MacBook/Desktop/PerfectTemplate/Packages/PerfectHTTP-2.0.5/Sources/Routing.swift": [533187843, 0]
+  "/Users/MacBook/Desktop/PerfectTemplate/Packages/PerfectHTTP-2.0.5/Sources/StaticFileHandler.swift": [533187843, 0]

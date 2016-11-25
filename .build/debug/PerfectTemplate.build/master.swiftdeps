@@ -1,0 +1,8 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "6396f9c3145966e494f2c2ce894a574f"
+build_time: [533269731, 514386000]
+inputs:
+  "/Users/MacBook/Desktop/PerfectTemplate/Sources/arguments.swift": [533187746, 0]
+  "/Users/MacBook/Desktop/PerfectTemplate/Sources/DBBaseManager.swift": [9223372036854775807, 0]
+  "/Users/MacBook/Desktop/PerfectTemplate/Sources/main.swift": [533269668, 0]
+  "/Users/MacBook/Desktop/PerfectTemplate/Sources/SDServer.swift": [9223372036854775807, 0]

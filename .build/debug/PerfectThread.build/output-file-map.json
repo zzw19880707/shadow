@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectThread.build/master.swiftdeps"
+  },
+  "/Users/MacBook/Desktop/PerfectTemplate/Packages/PerfectThread-2.0.3/Sources/Threading.swift": {
+    "dependencies": "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectThread.build/Threading.d",
+    "object": "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectThread.build/Threading.swift.o",
+    "swiftmodule": "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectThread.build/Threading~partial.swiftmodule",
+    "swift-dependencies": "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectThread.build/Threading.swiftdeps"
+  },
+  "/Users/MacBook/Desktop/PerfectTemplate/Packages/PerfectThread-2.0.3/Sources/ThreadQueue.swift": {
+    "dependencies": "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectThread.build/ThreadQueue.d",
+    "object": "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectThread.build/ThreadQueue.swift.o",
+    "swiftmodule": "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectThread.build/ThreadQueue~partial.swiftmodule",
+    "swift-dependencies": "/Users/MacBook/Desktop/PerfectTemplate/.build/debug/PerfectThread.build/ThreadQueue.swiftdeps"
+  }
+}
