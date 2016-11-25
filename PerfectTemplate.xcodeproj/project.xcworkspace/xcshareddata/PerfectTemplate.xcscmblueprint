@@ -1,18 +1,20 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0B9B07A57A7603A158703662ACDD6F3ABAA339F4",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6E7E9EA683E35C55FB5C183BC8B9251F82A3B936",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "B123C9ACF68A2BF01173B652DA8ABD73F990D1DE" : 9223372036854775807,
     "0B9B07A57A7603A158703662ACDD6F3ABAA339F4" : 9223372036854775807,
-    "9197B75B1BC29921D6E3B1CCDC2B258350009F3A" : 9223372036854775807
+    "6E7E9EA683E35C55FB5C183BC8B9251F82A3B936" : 9223372036854775807,
+    "9197B75B1BC29921D6E3B1CCDC2B258350009F3A" : 9223372036854775807,
+    "B123C9ACF68A2BF01173B652DA8ABD73F990D1DE" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "51206102-AF2F-48D3-A8A8-75A4DE2C3770",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "B123C9ACF68A2BF01173B652DA8ABD73F990D1DE" : "PerfectTemplate\/Packages\/MySQL-2.0.4\/",
-    "0B9B07A57A7603A158703662ACDD6F3ABAA339F4" : "PerfectTemplate\/",
-    "9197B75B1BC29921D6E3B1CCDC2B258350009F3A" : "PerfectTemplate\/Packages\/PerfectHTTP-2.0.5\/"
+    "0B9B07A57A7603A158703662ACDD6F3ABAA339F4" : "..\/PerfectTemplate",
+    "6E7E9EA683E35C55FB5C183BC8B9251F82A3B936" : "PerfectTemplate\/",
+    "9197B75B1BC29921D6E3B1CCDC2B258350009F3A" : "PerfectTemplate\/Packages\/PerfectHTTP-2.0.5\/",
+    "B123C9ACF68A2BF01173B652DA8ABD73F990D1DE" : "PerfectTemplate\/Packages\/MySQL-2.0.4\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "PerfectTemplate",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -22,6 +24,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/PerfectlySoft\/PerfectTemplate.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0B9B07A57A7603A158703662ACDD6F3ABAA339F4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/PerfectlySoft\/PerfectTemplate.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6E7E9EA683E35C55FB5C183BC8B9251F82A3B936"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/PerfectlySoft\/Perfect-HTTP.git",
