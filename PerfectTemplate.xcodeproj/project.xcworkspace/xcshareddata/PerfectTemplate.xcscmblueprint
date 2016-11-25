@@ -12,7 +12,7 @@
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "51206102-AF2F-48D3-A8A8-75A4DE2C3770",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
     "0B9B07A57A7603A158703662ACDD6F3ABAA339F4" : "..\/PerfectTemplate",
-    "6E7E9EA683E35C55FB5C183BC8B9251F82A3B936" : "PerfectTemplate\/",
+    "6E7E9EA683E35C55FB5C183BC8B9251F82A3B936" : "shadowWebSite\/",
     "9197B75B1BC29921D6E3B1CCDC2B258350009F3A" : "PerfectTemplate\/Packages\/PerfectHTTP-2.0.5\/",
     "B123C9ACF68A2BF01173B652DA8ABD73F990D1DE" : "PerfectTemplate\/Packages\/MySQL-2.0.4\/"
   },
