@@ -26,7 +26,7 @@ class SDServer {
         server.addRoutes(RegisterRoutes.create())
 
         var routes = Routes()
-        routes.add(method: .get, uri: "/", handler: {
+        routes.add(method: .get, uri: "", handler: {
             request, response in
             response.appendBody(string: "<html><title>Hello, world!</title><body>Hello, world!</body></html>")
             response.completed()
