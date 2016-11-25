@@ -25,6 +25,14 @@ class SDServer {
         //注册
         server.addRoutes(RegisterRoutes.create())
 
+        var routes = Routes()
+        routes.add(method: .get, uri: "/", handler: {
+            request, response in
+            response.appendBody(string: "<html><title>Hello, world!</title><body>Hello, world!</body></html>")
+            response.completed()
+        }
+        )
+        server.addRoutes(routes)
     }
     func startup() throws -> Void{
             // 启动HTTP服务器
